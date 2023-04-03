@@ -1,2 +1,2 @@
-# .github
+# Stonium
 Welcome to Stonium!
